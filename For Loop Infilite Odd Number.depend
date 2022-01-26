@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643131388 source:c:\users\md alimuzzaman haris\desktop\c programme\for loop infilite odd number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
